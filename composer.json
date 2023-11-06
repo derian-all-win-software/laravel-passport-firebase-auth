@@ -1,5 +1,5 @@
 {
-    "name": "square1/laravel-passport-firebase-auth",
+    "name": "derian-all-win-software/laravel-passport-firebase-auth",
     "description": "Create and authenticate users with Firebase Auth providers, and let Laravel Passport handle the rest!",
     "keywords": [
         "Google Firebase",
@@ -7,16 +7,7 @@
         "Firebase FCM laravel",
         "laravel-passport-firebase-auth"
     ],
-    "homepage": "https://github.com/square1-io/laravel-passport-firebase-auth",
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "Emiliano Tisato",
-            "email": "emilianotisato@gmail.com",
-            "homepage": "https://square1.io",
-            "role": "Developer"
-        }
-    ],
+    "homepage": "https://github.com/derian-all-win-software/laravel-passport-firebase-auth",
     "require": {
         "php": "^8.2",
         "laravel/framework": "^8.32.1",
